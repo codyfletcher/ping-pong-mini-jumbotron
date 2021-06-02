@@ -1,7 +1,7 @@
 /* ==================== Import Necessary Libraries ==================== */
 
-#include <Adafruit_GFX.h>   // For Matrix - Core graphics library
-#include <RGBmatrixPanel.h> // For Matrix - Hardware-specific library
+#include <Adafruit_GFX.h>   // For Matrix - Core graphics library - https://github.com/adafruit/Adafruit-GFX-Library
+#include <RGBmatrixPanel.h> // For Matrix - Hardware-specific library - https://github.com/adafruit/RGB-matrix-Panel
 
 /* ==================== Define Pins For Use on Arduino Uno Board ==================== */
 
